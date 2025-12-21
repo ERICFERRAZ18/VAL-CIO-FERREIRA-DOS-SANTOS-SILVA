@@ -1,2 +1,0 @@
-# bloqueio de hackear
-iptables -L -F -A -D
